@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 📊 Leetcode Stats
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/leizhenyu-lzy?theme=nord&ext=heatmap" width="50%" height="50%" />
+  <img src="https://leetcard.jacoblin.cool/18117265656y?theme=nord&ext=heatmap" width="50%" height="50%" />
 </div>
 
 
