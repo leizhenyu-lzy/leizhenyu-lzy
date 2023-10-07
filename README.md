@@ -24,22 +24,20 @@ Here are some ideas to get you started:
 
 ### 📊 Github Stats
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true" width="50%" height="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=css" width="38%" height="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true" width="50%" height="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=css" width="38%" height="38%" />
 </div>
 
 ### 📊 Leetcode Stats
-
 <div style="display:flex; justify-content: space-between; align-items: center;">
   <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord&ext=heatmap" width="50%" height="50%" />
 </div>
 
 
 
-
+### 📊 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy&theme=github" /> </div>
 <!-- [![leizhenyu-lzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy)](https://github.com/leizhenyu-lzy/github-readme-activity-graph) -->
-
 
 
 [Github 首页美化教程](https://zhuanlan.zhihu.com/p/454597068)
