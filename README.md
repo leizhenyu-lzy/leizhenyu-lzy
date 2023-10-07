@@ -15,10 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### 📊 Github Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leizhenyu-lzy/leizhenyu-lzy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leizhenyu-lzy/leizhenyu-lzy/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leizhenyu-lzy/leizhenyu-lzy/output/github-contribution-grid-snake.svg">
 </picture>
+
+### 📊 Github Stats
+<div style="display:flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lin-jun-xiang&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true" width="50%" height="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-jun-xiang&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=css" width="38%" height="38%" />
+</div>
+
+### 📊 Leetcode Stats
+
+<div style="display:flex; justify-content: space-between; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/Lin-jun-xiang?theme=nord&ext=heatmap" width="50%" height="50%" />
+</div>
+
 
