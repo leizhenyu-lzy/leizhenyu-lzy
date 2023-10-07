@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=leizhenyu-lzy&theme=xcode" /> </div>
-
+[![leizhenyu-lzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy)](https://github.com/leizhenyu-lzy/github-readme-activity-graph)
