@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 <!-- [![leizhenyu-lzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy)](https://github.com/leizhenyu-lzy/github-readme-activity-graph) -->
 
 
+![](https://tse2-mm.cn.bing.net/th/id/OIP-C.g7iAO7lrxL94p0VA-6LOxgAAAA?pid=ImgDet&rs=1)
+
 [Github 首页美化教程](https://zhuanlan.zhihu.com/p/454597068)
