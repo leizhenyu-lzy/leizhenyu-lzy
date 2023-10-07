@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <!-- [![leizhenyu-lzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy)](https://github.com/leizhenyu-lzy/github-readme-activity-graph) -->
 
 
-![]([https://tse2-mm.cn.bing.net/th/id/OIP-C.g7iAO7lrxL94p0VA-6LOxgAAAA?pid=ImgDet&rs=1](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=28f3f39674f082022dc799397bcbd7d5/810a19d8bc3eb135b642a00ea11ea8d3fc1f44f9.jpg)https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=28f3f39674f082022dc799397bcbd7d5/810a19d8bc3eb135b642a00ea11ea8d3fc1f44f9.jpg)
+
+![](https://ts1.cn.mm.bing.net/th/id/R-C.a8ae57f31d3a00d157f07b31dc5c2f02?rik=7H2HTw7CVEjcmA&riu=http%3a%2f%2fp0.ifengimg.com%2fpmop%2f2017%2f0521%2f0B329068681D81E9D50E0F07085EEEA0D340AA4E_size243_w200_h200.gif&ehk=3SwNTP6hQOylyIdoHFOjB47OQ9OFuTY306e7UvtnaU4%3d&risl=&pid=ImgRaw&r=0)
 
 [Github 首页美化教程](https://zhuanlan.zhihu.com/p/454597068)
