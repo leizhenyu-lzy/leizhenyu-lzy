@@ -1,4 +1,8 @@
+![image](https://github.com/leizhenyu-lzy/leizhenyu-lzy/assets/54441823/8e35f203-bf33-4a52-9f70-55ba955f1e87)
+
 ### Hi there 👋
+<div align="center">  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" /> </div>
+<!-- ![](https://github.githubassets.com/images/mona-loading-dark.gif) -->
 
 <!--
 **leizhenyu-lzy/leizhenyu-lzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +42,7 @@ Here are some ideas to get you started:
 ### 📊 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy&theme=github" /> </div>
 <!-- [![leizhenyu-lzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy)](https://github.com/leizhenyu-lzy/github-readme-activity-graph) -->
+
 
 
 
