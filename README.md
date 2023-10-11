@@ -1,5 +1,3 @@
-![image](https://github.com/leizhenyu-lzy/leizhenyu-lzy/assets/54441823/8e35f203-bf33-4a52-9f70-55ba955f1e87)
-
 ### Hi there 👋
 <div align="center">  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" /> </div>
 <!-- ![](https://github.githubassets.com/images/mona-loading-dark.gif) -->
