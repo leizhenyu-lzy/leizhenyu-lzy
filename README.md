@@ -18,6 +18,18 @@ Here are some ideas to get you started:
 -->
 
 ### 📊 Github Activity
+
+<div>
+  <img src="./base.svg" />
+  <br>
+  <img src="./fullyear.svg" />
+  <br>
+  <picture style="width: 49%;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=leizhenyu-lzy&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=leizhenyu-lzy&theme=tokyonight_duo&hide_border=true" />
+  </picture>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leizhenyu-lzy/leizhenyu-lzy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leizhenyu-lzy/leizhenyu-lzy/output/github-contribution-grid-snake.svg">
