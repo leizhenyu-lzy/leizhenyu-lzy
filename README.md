@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 ### 📊 Github Activity
 
 <div>
-  <img src="./base.svg" />
-  <br>
-  <img src="./fullyear.svg" />
-  <br>
-  <picture style="width: 49%;">
+  <picture style="width: 75%;">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=leizhenyu-lzy&theme=tokyonight&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=leizhenyu-lzy&theme=tokyonight_duo&hide_border=true" />
   </picture>
