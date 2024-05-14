@@ -1,5 +1,9 @@
-### Hi there 👋
-<div align="center">  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" /> </div>
+# Hi there 👋 🤗 👋
+
+<center class='img'><img src="Pics/mona-loading-dark.gif" width=40%></center>
+
+
+
 <!-- ![](https://github.githubassets.com/images/mona-loading-dark.gif) -->
 
 <!--
@@ -19,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 📊 Github Activity
 
-<div>
+<div align=center>
   <picture style="width: 75%;">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=leizhenyu-lzy&theme=tokyonight&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=leizhenyu-lzy&theme=tokyonight_duo&hide_border=true" />
@@ -40,7 +44,7 @@ Here are some ideas to get you started:
 
 ### 📊 Leetcode Stats
 <div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/18117265656y?theme=nord&ext=heatmap" width="50%" height="50%" />
+  <img src="https://leetcard.jacoblin.cool/18117265656y?theme=nord&ext=heatmap" width="50%" height="50%" align=center/>
 </div>
 
 
@@ -52,6 +56,6 @@ Here are some ideas to get you started:
 
 
 
-![](https://ts1.cn.mm.bing.net/th/id/R-C.a8ae57f31d3a00d157f07b31dc5c2f02?rik=7H2HTw7CVEjcmA&riu=http%3a%2f%2fp0.ifengimg.com%2fpmop%2f2017%2f0521%2f0B329068681D81E9D50E0F07085EEEA0D340AA4E_size243_w200_h200.gif&ehk=3SwNTP6hQOylyIdoHFOjB47OQ9OFuTY306e7UvtnaU4%3d&risl=&pid=ImgRaw&r=0)
+<center class='img'><img src="Pics/penspinning-anime-girl.gif" width=40%></center>
 
 [Github 首页美化教程](https://zhuanlan.zhihu.com/p/454597068)
