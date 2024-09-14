@@ -1,10 +1,13 @@
-# Hi there 👋 🤗 👋
+# Hi There ! 👋 🤗 👋
 
-<center class='img'><img src="Pics/mona-loading-dark.gif" width=40%></center>
+This is **ZHIYU LIU**, you can call me **LEO**. Welcome to my GitHub Page!
 
+I'm currently a master student in **UIUC (University of Illinois Urbana-Champaign)** *(Illinois, USA)*.
 
+I got my bachelor degree from **Tongji University** *(Shanghai, China)*. 
 
-<!-- ![](https://github.githubassets.com/images/mona-loading-dark.gif) -->
+<center><img src="Pics/mona-loading-dark.gif" width=200><img src="Pics/colorful.gif" width=180></center>
+
 
 <!--
 **leizhenyu-lzy/leizhenyu-lzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 Github Activity
+## 📊 Github Activity
 
 <div align=center>
   <picture style="width: 75%;">
@@ -36,20 +39,18 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leizhenyu-lzy/leizhenyu-lzy/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📊 Github Stats
+## 📊 Github Stats
 <div style="display:flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true" width="50%" height="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=css" width="38%" height="38%" />
 </div>
 
-### 📊 Leetcode Stats
-<div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/18117265656y?theme=nord&ext=heatmap" width="50%" height="50%" align=center/>
-</div>
+## 📊 Leetcode Stats
+
+<img src="https://leetcard.jacoblin.cool/leizhenyu-lzy?theme=nord&ext=heatmap">
 
 
-
-### 📊 Contribution Graph
+## 📊 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy&theme=github" /> </div>
 <!-- [![leizhenyu-lzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy)](https://github.com/leizhenyu-lzy/github-readme-activity-graph) -->
 
