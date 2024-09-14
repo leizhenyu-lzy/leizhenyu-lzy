@@ -39,11 +39,13 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leizhenyu-lzy/leizhenyu-lzy/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="./profile-3d-contrib/profile-night-rainbow.svg">
+
 ## 📊 Github Stats
-<div style="display:flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true" width="50%" height="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=css" width="38%" height="38%" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leizhenyu-lzy&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=css">
 
 ## 📊 Leetcode Stats
 
@@ -51,12 +53,11 @@ Here are some ideas to get you started:
 
 
 ## 📊 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy&theme=github" /> </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy&theme=github">
+
 <!-- [![leizhenyu-lzy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leizhenyu-lzy)](https://github.com/leizhenyu-lzy/github-readme-activity-graph) -->
 
 
-
-
-<center class='img'><img src="Pics/penspinning-anime-girl.gif" width=40%></center>
+<!-- <center class='img'><img src="Pics/penspinning-anime-girl.gif" width=40%></center> -->
 
 [Github 首页美化教程](https://zhuanlan.zhihu.com/p/454597068)
